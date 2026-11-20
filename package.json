@@ -1,0 +1,12 @@
+{
+  "name": "swe-project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal Node service for SWE_PROJECT on Render",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
